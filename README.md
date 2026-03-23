@@ -1,3 +1,3 @@
 # learning-Career-Hub
-[![Build Status](http://localhost:8080/job/New-Pipeline/badge/icon)](http://localhost:8080/job/New-Pipeline/)
+[![Build Status](https://unplanished-unpumpable-frieda.ngrok-free.dev/job/New-Pipeline/badge/icon)](https://unplanished-unpumpable-frieda.ngrok-free.dev/job/New-Pipeline/)
 Learning
